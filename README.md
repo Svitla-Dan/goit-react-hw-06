@@ -1,3 +1,3 @@
-# REACT START
+# GoIT React Homework #6
 
-🔗 [Live site](https://react-start-svitla-dan.vercel.app/)
+🔗 [Live site](https://goit-react-hw-06-svitla-dan.vercel.app/)
